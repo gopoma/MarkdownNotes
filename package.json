@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/gopoma/MarkdownNotes/issues"
   },
-  "homepage": "https://github.com/gopoma/MarkdownNotes#readme"
+  "homepage": "https://github.com/gopoma/MarkdownNotes#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "markdown-it": "^13.0.1"
+  }
 }
